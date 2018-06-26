@@ -1,9 +1,9 @@
 {
-	"name":"chatrooms",
-	"version":"0.01",
-	"description":"Minimalist multiroom chat server",
-	"dependencies":{
-		"socktet.io":"~0.9.6",
-		"mime":"~1.2.7"
+	"name": "chatrooms",
+	"version": "0.01",
+	"description": "Minimalist multiroom chat server",
+	"dependencies": {
+		"socktet.io": "~0.9.6",
+		"mime": "~1.2.7"
 	}
 }
