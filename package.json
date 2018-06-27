@@ -1,9 +1,29 @@
 {
-	"name": "chatrooms",
-	"version": "0.01",
-	"description": "Minimalist multiroom chat server",
-	"dependencies": {
-		"socktet.io": "~0.9.6",
-		"mime": "~1.2.7"
-	}
+  "name": "chatrooms",
+  "version": "1.0.0",
+  "description": "Minimalist multiroom chat server",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matianpeng/wxprogram.git"
+  },
+  "keywords": [
+    "145632"
+  ],
+  "author": "mate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matianpeng/wxprogram/issues"
+  },
+  "homepage": "https://github.com/matianpeng/wxprogram#readme",
+  "dependencies": {
+    "mime": "^2.3.1",
+    "socket.io": "^2.1.1"
+  }
 }
